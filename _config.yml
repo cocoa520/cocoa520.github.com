@@ -55,12 +55,10 @@ nav:
     url: /archives.html
   - text: 项目
     url: /works.html
-  - text: 关于我
+  - text: 关于
     url: /contact.html
   - text: Objc123
     url: http://www.objc123.com
-  - text: GitHub
-    url: https://github.com/cocoa520
 
 #theme config
 themes: /themes/violet
