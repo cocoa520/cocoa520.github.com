@@ -573,7 +573,7 @@ a.toTop:hover {
     .logo, .logo a {
         width: 320px;
     }
-    .logo-hidden {
+    #phone-hidden {
         display: none;
     }
     .nav-list {
