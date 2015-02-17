@@ -571,7 +571,7 @@ a.toTop:hover {
         padding-right: 20px;
     }
     .logo, .logo a {
-        width: 320px;
+        display: none;
     }
     .nav-list {
         width: 100%;
