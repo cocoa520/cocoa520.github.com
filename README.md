@@ -1,4 +1,4 @@
-##pizn.github.com
+##cocoa520.github.com
 
 这是 <a href="http://www.cocoa520.com" target="_blank" title="cocoa520">cocoa520</a> 在 GitHub 上使用 <a href="http://jekyllrb.com" target="_blank" >Jekyll</a> 搭建的个人博客的所有源代码。该博客的目的 用来<strong>快速</strong>记录工作，学习，生活的一点一滴。更多分享，更多交流，更多进步。
 
@@ -12,7 +12,7 @@ This is the source code for <a href="http://www.cocoa520.com" target="_blank" ti
 
 ##LICENSE
 
-cocoa520.github.com 上的文章采用<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">署名-非商业性使用-相同方式共享</a>协议进行授权，转载请注明转自：<a href="http://cocoa520.github.com" target="_blank">cocoa520.com</a>.
+cocoa520.github.com上的文章采用<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">署名-非商业性使用-相同方式共享</a>协议进行授权，转载请注明转自：<a href="http://cocoa520.github.com" target="_blank">cocoa520.com</a>.
 
 本站点界面在<a href="http://pizn.net" target="_blank">zhanxin.info</a>设计的基础上修改而成，界面的所有权归本站点与掌心共有。
 
