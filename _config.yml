@@ -96,9 +96,9 @@ author:
 
 #评论信息
 disqus:
-  config: true
+  config: false
   id: cocoa520
 
 duoshuo:
-  config: false
+  config: true
   id: cocoa520
