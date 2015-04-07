@@ -124,8 +124,8 @@ Pygments 样式 默认提供了 monokai、manni、rrt、perldoc、borland、colo
 
 
 ### 参考资料
-* [http://pygments.org/]()
-* [http://segmentfault.com/q/1010000000261050]()
-* [http://havee.me/internet/2013-07/jekyll-install.html]()
-* [http://havee.me/internet/2013-08/support-pygments-in-jekyll.html]()
-* [http://segmentfault.com/a/1190000000661337]()
+* [http://pygments.org/](http://pygments.org/)
+* [http://segmentfault.com/q/1010000000261050](http://segmentfault.com/q/1010000000261050)
+* [http://havee.me/internet/2013-07/jekyll-install.html](http://havee.me/internet/2013-07/jekyll-install.html)
+* [http://havee.me/internet/2013-08/support-pygments-in-jekyll.html](http://havee.me/internet/2013-08/support-pygments-in-jekyll.html)
+* [http://segmentfault.com/a/1190000000661337](http://segmentfault.com/a/1190000000661337)
