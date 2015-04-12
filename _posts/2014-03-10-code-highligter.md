@@ -2,6 +2,11 @@
 layout: post
 title: jekyll博客代码高亮配置
 description: 使用 Pygments 来实现代码高亮，Jekyll 原生支持语法高亮工具 Pygments ，Pygments 支持多种语言高亮, 并且非常方便使用。
+date: 2014-03-10 16:44:00 
+comments: true
+categories: [随笔]
+tags: [随笔]
+keywords: Jekyll Pygments highlighter
 
 ---
 

@@ -1,7 +1,12 @@
 ---
 layout: post
 title: 起点
+date: 2014-03-9 18:44:00 
+comments: true
+categories: [随笔]
+tags: [随笔]
 description: 人，最难超越的，不是别人，是自己。从今天开始,博客从csdn换到这里,准备另一个起点,有梦想就要坚持去追逐与实现，人生苦短，但愿无憾。
+keywords: 起点 随笔 人生 介绍
 
 ---
 
