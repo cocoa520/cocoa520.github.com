@@ -14,7 +14,7 @@ keywords: Android SD卡路径
 
 后面想到Android设备都是通过adb来操作的，所以找了一下，如何通过adb获得Android手机SD卡的路径，还真有，而且，Android手机SD卡还分内外置两种情况，下面记录一下ADB的操作命令。
 
-关于Adb是什么，以及常用命令的使用可以查看[`Adb工具介绍`](www.cocoa520.com/use_adb_cmdline.md)这篇文章.
+关于Adb是什么，以及常用命令的使用可以查看[`Adb工具介绍`](www.cocoa520.com/开源工具/2014/09/08/use_adb_cmdline.html)这篇文章.
 
 * 读取设备的内置SD卡路径，使用Adb Shell的环境变量`$EXTERNAL_STORAGE`
 
